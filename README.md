@@ -1,2 +1,2 @@
 # hello-world
-Thi is Hero-xy
+just another repository
